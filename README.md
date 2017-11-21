@@ -1,5 +1,4 @@
-
-#Move all (.jpg,.jpeg) files from one directory to another
+# Move all (.jpg,.jpeg) files from one directory to another
 
 Moves all the files within the folder including the nested folders to required destination
 
@@ -14,5 +13,6 @@ Python3
 ## Author
 
 **Abin Shakya** (https://github.com/arsenomadridabin)
+
 
 
