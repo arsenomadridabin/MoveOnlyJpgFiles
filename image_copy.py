@@ -2,8 +2,6 @@ import os
 import sys
 import shutil
 
-
-
 def move_jpgfile(dest_path,current_path):
 	for file in os.listdir(current_path):
 		file_abs_path=os.path.join(current_path,file)
